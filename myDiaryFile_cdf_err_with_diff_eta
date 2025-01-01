@@ -1,0 +1,2040 @@
+
+num_clusters =
+
+    15
+
+
+Nc_sel =
+
+     3
+
+
+N_max_RP =
+
+     4
+
+
+RP_positions_per_row =
+
+    41
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+joint aoa gpr : 4.858745 5.838333
+
+RP_positions_per_row =
+
+    26
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+joint aoa gpr : 6.861027 8.639182
+
+RP_positions_per_row =
+
+    21
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+joint aoa gpr : 7.687276 9.937625
+
+RP_positions_per_row =
+
+    11
+
+
+setup_idx =
+
+     1
+
+
+setup_idx =
+
+     2
+
+
+setup_idx =
+
+     3
+
+
+setup_idx =
+
+     4
+
+
+setup_idx =
+
+     5
+
+
+setup_idx =
+
+     6
+
+
+setup_idx =
+
+     7
+
+
+setup_idx =
+
+     8
+
+
+setup_idx =
+
+     9
+
+
+setup_idx =
+
+    10
+
+
+setup_idx =
+
+    11
+
+
+setup_idx =
+
+    12
+
+
+setup_idx =
+
+    13
+
+
+setup_idx =
+
+    14
+
+
+setup_idx =
+
+    15
+
+
+setup_idx =
+
+    16
+
+
+setup_idx =
+
+    17
+
+
+setup_idx =
+
+    18
+
+
+setup_idx =
+
+    19
+
+
+setup_idx =
+
+    20
+
+
+setup_idx =
+
+    21
+
+
+setup_idx =
+
+    22
+
+
+setup_idx =
+
+    23
+
+
+setup_idx =
+
+    24
+
+
+setup_idx =
+
+    25
+
+
+setup_idx =
+
+    26
+
+
+setup_idx =
+
+    27
+
+
+setup_idx =
+
+    28
+
+
+setup_idx =
+
+    29
+
+
+setup_idx =
+
+    30
+
+
+setup_idx =
+
+    31
+
+
+setup_idx =
+
+    32
+
+
+setup_idx =
+
+    33
+
+
+setup_idx =
+
+    34
+
+
+setup_idx =
+
+    35
+
+
+setup_idx =
+
+    36
+
+
+setup_idx =
+
+    37
+
+
+setup_idx =
+
+    38
+
+
+setup_idx =
+
+    39
+
+
+setup_idx =
+
+    40
+
+
+setup_idx =
+
+    41
+
+
+setup_idx =
+
+    42
+
+
+setup_idx =
+
+    43
+
+
+setup_idx =
+
+    44
+
+
+setup_idx =
+
+    45
+
+
+setup_idx =
+
+    46
+
+
+setup_idx =
+
+    47
+
+
+setup_idx =
+
+    48
+
+
+setup_idx =
+
+    49
+
+
+setup_idx =
+
+    50
+
+
+setup_idx =
+
+    51
+
+
+setup_idx =
+
+    52
+
+
+setup_idx =
+
+    53
+
+
+setup_idx =
+
+    54
+
+
+setup_idx =
+
+    55
+
+
+setup_idx =
+
+    56
+
+
+setup_idx =
+
+    57
+
+
+setup_idx =
+
+    58
+
+
+setup_idx =
+
+    59
+
+
+setup_idx =
+
+    60
+
+
+setup_idx =
+
+    61
+
+
+setup_idx =
+
+    62
+
+
+setup_idx =
+
+    63
+
+
+setup_idx =
+
+    64
+
+
+setup_idx =
+
+    65
+
+
+setup_idx =
+
+    66
+
+
+setup_idx =
+
+    67
+
+
+setup_idx =
+
+    68
+
+
+setup_idx =
+
+    69
+
+
+setup_idx =
+
+    70
+
+
+setup_idx =
+
+    71
+
+
+setup_idx =
+
+    72
+
+
+setup_idx =
+
+    73
+
+
+setup_idx =
+
+    74
+
+
+setup_idx =
+
+    75
+
+
+setup_idx =
+
+    76
+
+
+setup_idx =
+
+    77
+
+
+setup_idx =
+
+    78
+
+
+setup_idx =
+
+    79
+
+
+setup_idx =
+
+    80
+
+
+setup_idx =
+
+    81
+
+
+setup_idx =
+
+    82
+
+
+setup_idx =
+
+    83
+
+
+setup_idx =
+
+    84
+
+
+setup_idx =
+
+    85
+
+
+setup_idx =
+
+    86
+
+
+setup_idx =
+
+    87
+
+
+setup_idx =
+
+    88
+
+
+setup_idx =
+
+    89
+
+
+setup_idx =
+
+    90
+
+
+setup_idx =
+
+    91
+
+
+setup_idx =
+
+    92
+
+
+setup_idx =
+
+    93
+
+
+setup_idx =
+
+    94
+
+
+setup_idx =
+
+    95
+
+
+setup_idx =
+
+    96
+
+
+setup_idx =
+
+    97
+
+
+setup_idx =
+
+    98
+
+
+setup_idx =
+
+    99
+
+
+setup_idx =
+
+   100
+
+joint aoa gpr : 11.099047 14.305466
+
