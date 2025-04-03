@@ -8,3 +8,14 @@ The following MATLAB scripts are included for reproducing specific figures from 
   CDF_err_with_diff_eta.m : Generates Fig. 4 from the paper, showing the CDF of positioning error for different values of RP intervals eta or M=8.
   
 All variables and parameters have been closely aligned with the original paper to ensure reproducibility.
+
+**NOTE: THE RESULTS WERE NOT REPRODUCED, AND THERE WERE SIGNIFICANT DIFFERENCES COMPARED TO THE ORIGINAL FINDINGS.
+**
+
+
+
+
+
+
+
+
